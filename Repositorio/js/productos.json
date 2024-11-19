@@ -1,0 +1,134 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Combo",
+        "imagen": "./img/teclados/Combo.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "todo"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Teclado mecanico",
+        "imagen": "./img/teclados/Teclado-02.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "abrigos"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Teclado mecanico",
+        "imagen": "./img/teclados/Teclado-03.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "abrigos"
+        },
+        "precio": 36500
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Teclado mecanico",
+        "imagen": "./img/teclados/Teclado-04.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "abrigos"
+        },
+        "precio": 20000
+    },
+    
+    {
+        "id": "camiseta-01",
+        "titulo": "Espejo con aro de luz recargable",
+        "imagen": "./img/espejos/Espejo-01.jpg",
+        "categoria": {
+            "nombre": "Espejos",
+            "id": "camisetas"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Combo de espejo mas brocha con espejito",
+        "imagen": "./img/espejos/Combo.jpg",
+        "categoria": {
+            "nombre": "Espejos",
+            "id": "camisetas"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Mini espejo a pilas",
+        "imagen": "./img/espejos/Espejo-02.jpg",
+        "categoria": {
+            "nombre": "Espejos",
+            "id": "camisetas"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Espejo con aro de luz recargable y a pila con dos modos de uso",
+        "imagen": "./img/espejos/Espejo-03.jpg",
+        "categoria": {
+            "nombre": "Espejos",
+            "id": "camisetas"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Espejo con aro de luz Toush",
+        "imagen": "./img/espejos/Espejo.04.jpg",
+        "categoria": {
+            "nombre": "Espejos",
+            "id": "camisetas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Ventilador de Pie Liliana",
+        "imagen": "./img/ventiladores/Ventilador-03.jpg",
+        "categoria": {
+            "nombre": "Ventiladores",
+            "id": "pantalones"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Ventilador de piso de 20 pulgadas",
+        "imagen": "./img/ventiladores/Ventilador-01.jpg",
+        "categoria": {
+            "nombre": "Ventiladores",
+            "id": "pantalones"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Iluminashop Ventilador de Pie",
+        "imagen": "./img/ventiladores/Ventilador-04.jpg",
+        "categoria": {
+            "nombre": "Ventiladores",
+            "id": "pantalones"
+        },
+        "precio": 37500
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Ventilador de mesa oscilante",
+        "imagen": "./img/ventiladores/Ventilador-05.jpg",
+        "categoria": {
+            "nombre": "Ventiladores",
+            "id": "pantalones"
+        },
+        "precio": 27500
+    }
+    
+]
